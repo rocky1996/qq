@@ -1,0 +1,6 @@
+package com.acat.qq.db;
+
+//’Àªß±ªÀ¯“Ï≥£
+public class StateException extends Exception {
+
+}
